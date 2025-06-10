@@ -39,10 +39,9 @@
 ```python
 class BackendDeveloper:
     def __init__(self):
-        self.name = "[اسمك هنا]"
+        self.name = "Ziad"
         self.role = "Senior Python Backend Developer"
-        self.company = "[اسم الشركة]"
-        self.location = "🌍 [مدينتك، بلدك]"
+        self.location = "Egypt"
         self.languages = ["العربية", "English", "Code"]
         self.current_focus = "Building scalable microservices"
         self.fun_fact = "تحويل القهوة إلى كود منذ 2020 ☕"
@@ -214,17 +213,7 @@ print(developer.current_status())
   
 </div>
 
-<!-- BLOG-POST-LIST:START -->
-<div align="center">
 
-| 📝 **العنوان** | 📅 **التاريخ** | 🔗 **الرابط** |
-|:---:|:---:|:---:|
-| بناء Microservices مع FastAPI | 2024-01-15 | [قراءة المقال](https://yourwebsite.com/blog/fastapi-microservices) |
-| تحسين أداء Django للتطبيقات الضخمة | 2024-01-10 | [قراءة المقال](https://yourwebsite.com/blog/django-optimization) |
-| دليل شامل لـ Docker في Python | 2024-01-05 | [قراءة المقال](https://yourwebsite.com/blog/docker-python) |
-| أمان APIs: أفضل الممارسات | 2024-01-01 | [قراءة المقال](https://yourwebsite.com/blog/api-security) |
-
-</div>
 <!-- BLOG-POST-LIST:END -->
 
 <br>
